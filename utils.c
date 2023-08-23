@@ -3,7 +3,7 @@
 /**
  * is_printable - This function Evaluates if a char is printable
  * @c: Char to be evaluated.
- * written by Daniel and Kachi
+ * written by Daniel and Kachi S
  * Return: 1 if c is printable, 0 otherwise
  */
 int is_printable(char c)
