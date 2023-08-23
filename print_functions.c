@@ -2,7 +2,7 @@
 /************************* PRINT CHAR *************************/
 /**
  * print_char - This function Prints a char
- * @types: The List a of arguments
+ * @types: The Liss a of arguments
  * @buffer: The Buffer array to handle print
  * @flags:  This Calculates active flags
  * @width: The Width
