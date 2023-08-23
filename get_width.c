@@ -3,8 +3,8 @@
 /**
  * get_width - This function Calculates the width for printing
  * @format: The Formatted string used to print the arguments.
- * @i: The List of arguments to be printed.
- * @list: The list of arguments.
+ * @i: The Liss of arguments to be printed.
+ * @list: The liss of arguments.
  * written by Daniel and Kachi
  * Return: Success width.
  */
