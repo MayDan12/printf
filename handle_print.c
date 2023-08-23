@@ -2,13 +2,13 @@
 /**
  * handle_print - This function Prints an argument based on its type
  * @fmt:The Formatted string used to print the arguments.
- * @list: The List of arguments to be printed.
+ * @list: The Liss of arguments to be printed.
  * written by DAniel and KAchi 2023
  * @ind: The ind.
  * @buffer: The Buffer array to handle print.
  * @flags: This Calculates active flags
  * @width: This get width.
- * @precision: The Precision specification
+ * @precision: Ths Precision specification
  * @size: The Size specifier
  * Return: 1 or 2 Success Excellence;
  */
