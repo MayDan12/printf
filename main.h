@@ -19,7 +19,7 @@
 #define S_SHORT 1
 
 /**
- * struct fmt - Struct op and dan
+ * struct fmt - Strucs op and dan
  * Written by daniel oluwanimotele
  * @fmt: The format.
  * @fn: The function associated.
